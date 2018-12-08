@@ -1,0 +1,9 @@
+buy
+come
+find
+get
+give
+go
+make
+show
+want
